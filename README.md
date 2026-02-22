@@ -29,5 +29,5 @@ dotnet run --project DotnetMinimalApiEndpointFilters.Api
 ```
 
 ## Author / Maintainer
-Visit Now: https://codingdroplets.com
-Join our Patreon to Learn & Level Up: https://www.patreon.com/codingdroplets
+- Visit Now: https://codingdroplets.com
+- Join our Patreon to Learn & Level Up: https://www.patreon.com/codingdroplets
