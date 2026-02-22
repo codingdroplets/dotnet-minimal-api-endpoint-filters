@@ -1,6 +1,0 @@
-@DotnetMinimalApiEndpointFilters.Api_HostAddress = http://localhost:5174
-
-GET {{DotnetMinimalApiEndpointFilters.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
